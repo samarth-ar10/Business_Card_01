@@ -70,11 +70,11 @@
 <wire x1="85" y1="51" x2="81" y2="55" width="0" layer="20" curve="90"/>
 <wire x1="81" y1="55" x2="4" y2="55" width="0" layer="20"/>
 <wire x1="4" y1="55" x2="0" y2="51" width="0" layer="20" curve="90"/>
-<text x="8.56" y="48.125" size="5" layer="21" font="vector" align="top-left">samarth</text>
-<text x="8.56" y="41.5" size="1.5" layer="21" align="top-left">Computer Science Engineer</text>
-<text x="8.56" y="25" size="2" layer="21" align="top-left">www.fenrir-so.tech</text>
-<text x="8.56" y="20" size="2" layer="21" align="top-left">github.com/samarth-ar10</text>
-<text x="8.56" y="15" size="2" layer="21" align="top-left">samarth.ar10@gmail.com</text>
+<text x="8.56" y="48.125" size="5" layer="21" font="vector" align="top-left">name</text>
+<text x="8.56" y="41.5" size="1.5" layer="21" align="top-left">qualification</text>
+<text x="8.56" y="25" size="2" layer="21" align="top-left">contact_1</text>
+<text x="8.56" y="20" size="2" layer="21" align="top-left">contact_2</text>
+<text x="8.56" y="15" size="2" layer="21" align="top-left">contact_3</text>
 <rectangle x1="37.72" y1="42.12" x2="38.04" y2="42.2" layer="21"/>
 <rectangle x1="37.64" y1="42.2" x2="38.12" y2="42.28" layer="21"/>
 <rectangle x1="37.64" y1="42.28" x2="38.2" y2="42.36" layer="21"/>
