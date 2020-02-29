@@ -1,8 +1,0 @@
-Partlist exported from D:/Project/GitHub/samarth_so/Business_Card/Business_Card/Business_Card.sch at 1/28/2020 4:35 AM
-
-Qty Value               Device              Package             Parts Description                            POPULARITY SPICEPREFIX
-1                       LEDCHIPLED_0805     CHIPLED_0805        LED1  LED                                    52                    
-1                       R-EU_R0603          R0603               R1    RESISTOR, European symbol              70         R          
-1   220nf               C-EUC0603           C0603               C1    CAPACITOR, European symbol             73         C          
-1   25X48MM_NFC_ANTENNA 25X48MM_NFC_ANTENNA 25X48MM_NFC_ANTENNA U$2   25x48 mm NFC loop antenna, L = 2,75 µH                       
-1   NT3H                NT3H                XQFN8               U$1   NXP NTAG NT3H                                                
